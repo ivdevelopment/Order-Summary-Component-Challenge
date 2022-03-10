@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://tinyurl.com/y8cdvk4u)
+![](https://tinyurl.com/yaxxcjsh)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ivdevelopment/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://ivdevelopment.github.io/nft-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/ivdevelopment/Order-Summary-Component-Challenge)
+- Live Site URL: [Add live site URL here](https://ivdevelopment.github.io/Order-Summary-Component-Challenge/)
 
 
 ### Built with
