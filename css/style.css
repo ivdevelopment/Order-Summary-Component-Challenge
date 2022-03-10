@@ -6,9 +6,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(../images/pattern-background-mobile.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url(../images/pattern-background-mobile.svg) no-repeat top center;
+    background-color: #e0e8ff;
+    background-size: contain;
     height: 100vh;
     /* background-position: center; */
     display: flex;
